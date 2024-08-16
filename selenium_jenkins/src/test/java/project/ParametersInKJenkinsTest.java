@@ -3,7 +3,7 @@ package project;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class ParametersInKJenkins 
+public class ParametersInKJenkinsTest 
 {
 @Test
 public void sample()
